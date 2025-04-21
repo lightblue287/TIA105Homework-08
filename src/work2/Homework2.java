@@ -1,6 +1,6 @@
 package work2;
 
-public class Homework {
+public class Homework2 {
 
 	public static void main(String[] args) {
 		// 第一題
@@ -65,8 +65,10 @@ public class Homework {
 		}
 		System.out.print("總共有" + num + "個");
 
+		System.out.println();
+		
 		// 第六題
-		for (int y = 11; y >= 1; y--) {
+		for (int y = 10; y >= 1; y--) {
 			for (int j = 1; j <= y; j++) {
 				System.out.print(j);
 			}
